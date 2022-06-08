@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"stack_utils.h": "c",
+		"chrono": "c",
+		"variant": "c",
+		"limits": "c",
+		"ratio": "c",
+		"algorithm": "c"
+	}
+}
